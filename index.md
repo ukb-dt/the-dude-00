@@ -38,9 +38,9 @@ The dude, when he still had his rug :)
 ## 3
 Ah, His Dudeness in his golden era — just chillin' on that rug that really tied the room together, White Russian in hand, before the nihilists fucked it all up. The Dude abides. 😎
 
-<div style="position: relative; margin: 0 auto; width: 640px;">
+<div style="position: relative; margin: 0 auto; max-width: 640px; width: 54%;">
   <figure>
-    <img src="ukhona/the-dude-n-rug.jpg" alt="The Big Lebowski Rug" style="width: 640px; height: 360px;">
+    <img src="ukhona/the-dude-n-rug.jpg" alt="The Big Lebowski Rug" style="width: 100%; height: auto;">
     <figcaption>The Big Lebowski Rug that “Really Tied the Room Together"</figcaption>
   </figure>
 </div>
